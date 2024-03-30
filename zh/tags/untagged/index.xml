@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on OxwoBlog</title>
+    <link>//localhost:1313/zh/tags/untagged/</link>
+    <description>Recent content in Untagged on OxwoBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 30 Mar 2024 23:45:37 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/zh/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page Test</title>
+      <link>//localhost:1313/zh/posts/page-test/</link>
+      <pubDate>Sat, 30 Mar 2024 23:45:37 +0800</pubDate>
+      <guid>//localhost:1313/zh/posts/page-test/</guid>
+      <description>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 啊啊 aaaaaa 啊啊啊啊啊 aaaaa ##大撒大撒## #的撒的撒 This is a tip A tip banner Or This is a tip A tip banner</description>
+    </item>
+  </channel>
+</rss>

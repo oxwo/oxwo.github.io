@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OxwoBlog</title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content on OxwoBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oxwo</copyright>
+    <lastBuildDate>Sat, 30 Mar 2024 23:45:37 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page Test</title>
+      <link>//localhost:1313/en/posts/page-test/</link>
+      <pubDate>Sat, 30 Mar 2024 23:45:37 +0800</pubDate>
+      <guid>//localhost:1313/en/posts/page-test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
