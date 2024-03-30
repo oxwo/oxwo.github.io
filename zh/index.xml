@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OxwoBlog</title>
-    <link>127.0.0.1/zh/</link>
+    <link>oxwo.github.io/zh/</link>
     <description>Recent content on OxwoBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="127.0.0.1/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="oxwo.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

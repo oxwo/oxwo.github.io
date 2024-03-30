@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>127.0.0.1/zh/</loc>
+    <loc>oxwo.github.io/zh/</loc>
     <lastmod>2024-03-31T00:14:55+08:00</lastmod>
   </url><url>
-    <loc>127.0.0.1/zh/posts/</loc>
+    <loc>oxwo.github.io/zh/posts/</loc>
     <lastmod>2024-03-30T23:45:37+08:00</lastmod>
   </url><url>
-    <loc>127.0.0.1/zh/categories/</loc>
+    <loc>oxwo.github.io/zh/categories/</loc>
   </url><url>
-    <loc>127.0.0.1/zh/tags/</loc>
+    <loc>oxwo.github.io/zh/tags/</loc>
   </url>
 </urlset>
