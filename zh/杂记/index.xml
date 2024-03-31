@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OxwoBlog</title>
-    <link>https://oxwo.github.io/zh/</link>
-    <description>Recent content on OxwoBlog</description>
+    <title>杂记s on OxwoBlog</title>
+    <link>https://oxwo.github.io/zh/%E6%9D%82%E8%AE%B0/</link>
+    <description>Recent content in 杂记s on OxwoBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 29 Sep 2018 11:36:33 +0800</lastBuildDate>
-    <atom:link href="https://oxwo.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://oxwo.github.io/zh/%E6%9D%82%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>搭建小破站</title>
       <link>https://oxwo.github.io/zh/%E6%9D%82%E8%AE%B0/%E6%90%AD%E5%BB%BA%E5%B0%8F%E7%A0%B4%E7%AB%99%E7%9A%84%E6%83%B3%E6%B3%95/</link>
