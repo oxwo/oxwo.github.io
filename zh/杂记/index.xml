@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 29 Sep 2018 11:36:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 21:48:53 +0800</lastBuildDate>
     <atom:link href="https://oxwo.github.io/zh/%E6%9D%82%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>飞轮储能技术</title>
+      <link>https://oxwo.github.io/zh/%E6%9D%82%E8%AE%B0/%E9%A3%9E%E8%BD%AE%E5%82%A8%E8%83%BD%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Tue, 05 Nov 2024 21:48:53 +0800</pubDate>
+      <guid>https://oxwo.github.io/zh/%E6%9D%82%E8%AE%B0/%E9%A3%9E%E8%BD%AE%E5%82%A8%E8%83%BD%E6%8A%80%E6%9C%AF/</guid>
+      <description>飞轮储能技术与参数计算 飞轮储能技术是一种利用飞轮的旋转动能来存储和释放能量的技术。通过飞轮的高速旋转，能量可以以机械形式储存，然后通过控制飞</description>
+    </item>
     <item>
       <title>搭建小破站</title>
       <link>https://oxwo.github.io/zh/%E6%9D%82%E8%AE%B0/%E6%90%AD%E5%BB%BA%E5%B0%8F%E7%A0%B4%E7%AB%99%E7%9A%84%E6%83%B3%E6%B3%95/</link>

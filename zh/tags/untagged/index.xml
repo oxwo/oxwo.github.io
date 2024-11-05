@@ -2,33 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on OxwoBlog</title>
-    <link>http://localhost:1313/zh/tags/untagged/</link>
+    <link>https://oxwo.github.io/zh/tags/untagged/</link>
     <description>Recent content in Untagged on OxwoBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 31 Mar 2024 08:47:34 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Nov 2024 21:48:53 +0800</lastBuildDate>
+    <atom:link href="https://oxwo.github.io/zh/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aaa</title>
-      <link>http://localhost:1313/zh/posts/aaa/</link>
-      <pubDate>Sun, 31 Mar 2024 08:47:34 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/aaa/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <title>飞轮储能技术</title>
+      <link>https://oxwo.github.io/zh/%E6%9D%82%E8%AE%B0/%E9%A3%9E%E8%BD%AE%E5%82%A8%E8%83%BD%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Tue, 05 Nov 2024 21:48:53 +0800</pubDate>
+      <guid>https://oxwo.github.io/zh/%E6%9D%82%E8%AE%B0/%E9%A3%9E%E8%BD%AE%E5%82%A8%E8%83%BD%E6%8A%80%E6%9C%AF/</guid>
+      <description>飞轮储能技术与参数计算 飞轮储能技术是一种利用飞轮的旋转动能来存储和释放能量的技术。通过飞轮的高速旋转，能量可以以机械形式储存，然后通过控制飞</description>
     </item>
     <item>
-      <title>My</title>
-      <link>http://localhost:1313/zh/posts/my/</link>
-      <pubDate>Sun, 31 Mar 2024 08:41:46 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/my/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Page Test</title>
-      <link>http://localhost:1313/zh/posts/page-test/</link>
-      <pubDate>Sat, 30 Mar 2024 23:45:37 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/page-test/</guid>
-      <description>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 啊啊 aaaaaa 啊啊啊啊啊 aaaaa ##大撒大撒## #的撒的撒 This is a tip A tip banner Or This is a tip A tip banner</description>
+      <title>Test1</title>
+      <link>https://oxwo.github.io/zh/test/test1/</link>
+      <pubDate>Tue, 05 Nov 2024 21:13:49 +0800</pubDate>
+      <guid>https://oxwo.github.io/zh/test/test1/</guid>
+      <description>Hello Hugo aaa bbb ccc </description>
     </item>
   </channel>
 </rss>
